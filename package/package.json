@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/sanjiv576/simplified-dateFormat/issues"
   },
-  "homepage": "https://github.com/sanjiv576/simplified-dateFormat#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "homepage": "https://github.com/sanjiv576/simplified-dateFormat#readme"
 }
