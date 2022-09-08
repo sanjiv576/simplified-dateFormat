@@ -11,6 +11,7 @@ console.log(dateFormat.getDate('Hindi'));
 console.log(dateFormat.getDate('telugu'));
 console.log(dateFormat.getDate('kANuri'));
 console.log(dateFormat.getDate('chiNese'));
+console.log(dateFormat.getDate('Vietnamese'));
 
 
 
