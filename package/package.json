@@ -1,6 +1,6 @@
 {
   "name": "simplified-dateformat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A npm that converts default date into desired format in different languages.",
   "main": "main.js",
   "scripts": {
